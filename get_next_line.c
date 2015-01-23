@@ -6,11 +6,11 @@
 /*   By: avallete <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/22 16:11:38 by avallete          #+#    #+#             */
-/*   Updated: 2015/01/22 17:13:05 by avallete         ###   ########.fr       */
+/*   Updated: 2015/01/23 13:14:36 by avallete         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <get_next_line.h>
+#include "get_next_line.h"
 
 static unsigned int	check_line(char *buf)
 {
